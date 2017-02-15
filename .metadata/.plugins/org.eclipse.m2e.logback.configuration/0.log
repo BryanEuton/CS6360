@@ -1,0 +1,67 @@
+2017-02-14 15:19:30,751 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WordCount1:WordCount1:0.0.1-SNAPSHOT @ C:\Git\CS6360\WordCount\pom.xml.
+2017-02-14 15:19:30,751 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WordCount1:WordCount1:0.0.1-SNAPSHOT @ C:\Git\CS6360\WordCount\pom.xml.
+2017-02-14 15:19:33,510 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/mrunit/mrunit/0.9.0-incubating/mrunit-0.9.0-incubating.pom
+2017-02-14 15:19:33,510 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/mrunit/mrunit/0.9.0-incubating/mrunit-0.9.0-incubating.pom
+2017-02-14 15:19:33,649 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/mrunit/mrunit/0.9.0-incubating/mrunit-0.9.0-incubating.pom
+2017-02-14 15:19:33,691 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/mrunit/mrunit/0.9.0-incubating/mrunit-0.9.0-incubating.pom
+2017-02-14 15:19:33,779 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2017-02-14 15:19:33,788 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2017-02-14 15:19:33,893 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2017-02-14 15:19:33,914 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2017-02-14 15:19:34,031 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2017-02-14 15:19:34,032 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2017-02-14 15:19:34,120 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2017-02-14 15:19:34,133 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2017-02-14 15:19:34,222 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2017-02-14 15:19:34,231 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2017-02-14 15:19:34,309 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2017-02-14 15:19:34,329 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2017-02-14 15:19:34,452 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.pom
+2017-02-14 15:19:34,457 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.pom
+2017-02-14 15:19:34,534 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.pom
+2017-02-14 15:19:34,579 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mockito:mockito-all:jar:1.8.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-14 15:19:34,581 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.pom
+2017-02-14 15:19:35,766 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/mrunit/mrunit/0.9.0-incubating/mrunit-0.9.0-incubating-hadoop1.jar
+2017-02-14 15:19:35,767 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/mrunit/mrunit/0.9.0-incubating/mrunit-0.9.0-incubating-hadoop1.jar
+2017-02-14 15:19:35,972 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/mrunit/mrunit/0.9.0-incubating/mrunit-0.9.0-incubating-hadoop1.jar
+2017-02-14 15:19:35,983 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/mrunit/mrunit/0.9.0-incubating/mrunit-0.9.0-incubating-hadoop1.jar
+2017-02-14 15:19:36,037 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2017-02-14 15:19:36,050 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2017-02-14 15:19:36,122 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2017-02-14 15:19:36,181 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2017-02-14 15:19:36,218 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2017-02-14 15:19:36,248 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2017-02-14 15:19:36,417 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2017-02-14 15:19:36,454 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2017-02-14 15:19:36,483 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.jar
+2017-02-14 15:19:36,520 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.jar
+2017-02-14 15:19:37,008 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.jar
+2017-02-14 15:19:37,088 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.jar
+2017-02-14 15:19:37,588 [Worker-17] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2017-02-14 15:19:40,344 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:19:40,345 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\main\resources
+2017-02-14 15:19:40,346 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:19:40,347 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\test\resources
+2017-02-14 15:19:45,923 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WordCount1:WordCount1:0.0.1-SNAPSHOT @ C:\Git\CS6360\WordCount\pom.xml.
+2017-02-14 15:19:47,287 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:19:47,287 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\main\resources
+2017-02-14 15:19:47,289 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:19:47,290 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\test\resources
+2017-02-14 15:19:50,040 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-14 15:19:51,453 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:19:51,454 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\main\resources
+2017-02-14 15:19:51,457 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:19:51,457 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\test\resources
+2017-02-14 15:20:04,892 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-14 15:23:05,026 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:23:05,037 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\main\resources
+2017-02-14 15:23:05,042 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:23:05,042 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\test\resources
+2017-02-14 15:23:06,237 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:23:06,238 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\main\resources
+2017-02-14 15:23:06,241 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-14 15:23:06,242 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git\CS6360\WordCount\src\test\resources
+2017-02-14 15:23:29,614 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\CS6360\WordCount
+2017-02-14 15:23:29,616 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2017-02-14 15:23:51,840 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Git\CS6360\WordCount
+2017-02-14 15:23:51,841 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
